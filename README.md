@@ -14,7 +14,8 @@ This repository contains a Python implementation for comparing password similari
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/Bloom-Filter-Password-Comparison.git
+    git clone https://github.com/
+CHHaseebAli/Bloom-Filter-Password-Comparison.git
     ```
 
 2. Navigate to the project folder:
