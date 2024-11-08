@@ -35,7 +35,7 @@ This repository contains a Python implementation for comparing password similari
    The `main.py` file can be run directly to create Bloom filters, generate Beta files, and test password similarity.
 
     ```bash
-    python main.py
+    python Bloom-Filter-Password-Comparison.py
     ```
 
 2. **Password modification testing**:  
@@ -43,7 +43,7 @@ This repository contains a Python implementation for comparing password similari
 
 ## Structure
 
-- `main.py`: The main script for generating Bloom filters and comparing passwords.
+- `Bloom-Filter-Password-Comparison.py`: The main script for generating Bloom filters and comparing passwords.
 - `rockyou.txt`: The dataset file (assumed to be present) containing passwords for testing.
 - `Beta1.txt`, `Beta2.txt`, `Beta3.txt`: Generated Beta files containing Bloom filters for datasets.
 
